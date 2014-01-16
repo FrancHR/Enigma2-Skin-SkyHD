@@ -1,2 +1,4 @@
-Enigma2-Skin-SkyHD
-==================
+Enigma2 Skin by Franc - SkyHD
+============
+
+SkyHD by Franc
