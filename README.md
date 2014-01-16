@@ -1,4 +1,5 @@
 Enigma2 Skin by Franc - SkyHD
 ============
 
-SkyHD by Franc images here http://vrane.pohrani.com/?SkyHD+Skin
+Images here http://vrane.pohrani.com/?SkyHD+Skin
+Supprot on http://www.satforum.me
